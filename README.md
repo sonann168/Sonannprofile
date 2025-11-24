@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Sonann
+# 
 
 **`Desenvolvedora FullStack`**
 
